@@ -2,6 +2,7 @@ Stylish-Multiple-Text-Split
 ===========================
 # Created by Maruf Alam.
 # It was post 'http://' in every line. 
+# Used CSS3
 # Multiple text split has BETA VERSION. So, Many bug's in here. Im upadteing and adding many featue soon. 
 # License: Mozzila Public License V2.0
 ============================
